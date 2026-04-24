@@ -1,14 +1,14 @@
 # Teste Técnico — AI Solution Engineer Jr.
 
-Bem-vindo(a)! 👋
+Bem-vindo(a)!
 
 Se você chegou até aqui, é porque avançamos com sua candidatura para a vaga de **AI Solution Engineer Jr.** na Runflow AI. Esse desafio foi pensado para simular o tipo de trabalho que você faria no dia a dia do time de Professional Services: implementar um agente de IA de ponta a ponta, com LLM, ferramentas e integração com um sistema externo.
 
 Antes de começar, duas coisas importantes:
 
-> 🎯 **Estamos mais interessados em quanto você quer aprender e correr atrás pra aprender do que no que você sabe hoje.** Se tem coisa nova nesse desafio, ótimo — queremos ver como você encara.
+> **Estamos mais interessados em quanto você quer aprender e correr atrás pra aprender do que no que você sabe hoje.** Se tem coisa nova nesse desafio, ótimo — queremos ver como você encara.
 
-> 🤖 **Você pode usar IA** (Claude, ChatGPT, Cursor, etc) durante o desenvolvimento — é parte natural do nosso dia a dia também. Mas fica o aviso: **na próxima fase da entrevista vamos fazer perguntas técnicas sobre o que você entregou.** Então, mais importante do que terminar rápido é entender o que você está fazendo.
+> **Você pode usar IA** (Claude, ChatGPT, Cursor, etc) durante o desenvolvimento — é parte natural do nosso dia a dia também. Mas fica o aviso: **na próxima fase da entrevista vamos fazer perguntas técnicas sobre o que você entregou.** Então, mais importante do que terminar rápido é entender o que você está fazendo.
 
 ---
 
