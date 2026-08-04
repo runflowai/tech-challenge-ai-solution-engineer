@@ -173,7 +173,7 @@ Um repositório Git (GitHub, GitLab) contendo:
 ### Como entregar
 
 1. Se o repositório for **privado**, compartilhe acesso com o usuário [`jacksonsilvadev`](https://github.com/jacksonsilvadev) no GitHub.
-2. Envie o link do repositório por e-mail para **[engineering@runflow.ai](mailto:engineering@runflow.ai)** com o assunto:
+2. Envie o link do repositório por e-mail para **[jackson.silva@runflow.ai](mailto:jackson.silva@runflow.ai)** com o assunto:
    ```
    Teste Técnico - AI Solution Engineer Jr. - [Seu Nome]
    ```
@@ -201,6 +201,6 @@ Um repositório Git (GitHub, GitLab) contendo:
 
 ## ❓ Dúvidas
 
-Qualquer dúvida sobre o escopo, mande um e-mail para **[engineering@runflow.ai](mailto:engineering@runflow.ai)**.
+Qualquer dúvida sobre o escopo, mande um e-mail para **[jackson.silva@runflow.ai](mailto:jackson.silva@runflow.ai)**.
 
 Boa sorte e boa construção! 🚀
