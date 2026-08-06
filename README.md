@@ -28,7 +28,7 @@ Antes de começar, duas coisas importantes:
 
 ## ⏱ Prazo
 
-Você tem **5 dias corridos** a partir do momento em que recebe o desafio.
+Você tem **3 dias corridos** a partir do momento em que recebe o desafio.
 
 Preferimos uma solução simples e bem compreendida a uma complexa e incompleta.
 
